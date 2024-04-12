@@ -1,7 +1,7 @@
 /*! @preserve
  * bootbox.js
  * version: 5.3.2
- * author: Nick Payne <nick@kurai.co.uk>
+ * author: Harsh Dadiya 
  * license: MIT
  * http://bootboxjs.com/
  */
